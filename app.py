@@ -1,7 +1,10 @@
+# ============================================================
+# IMPORT
+# ============================================================
+
 import os
 import requests
 import streamlit as st
-
 from dotenv import load_dotenv
 from langchain_community.tools.tavily_search import TavilySearchResults
 from langchain_google_genai import ChatGoogleGenerativeAI
