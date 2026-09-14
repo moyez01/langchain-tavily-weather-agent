@@ -4,7 +4,7 @@ An AI-powered weather and search agent built with LangChain, leveraging Gemini L
 #Installation & Setup Instructions
 #Follow these steps to install and run the application.
 
-1. Download the Required Files
+1. Download the Required Files<br>
 Download the following files and place them in the same directory/folder:<br>
 app.py<br>
 requirements.txt<br>
