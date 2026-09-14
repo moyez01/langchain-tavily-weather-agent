@@ -20,8 +20,6 @@ GEMENI_API_KEY="your_gemini_api_key"<br>
 TAVILY_API_KEY="your_tavily_api_key"<br>
 WEATHERSTACK_API_KEY="your_weatherstack_api_key"<br>
 Replace the placeholder values with your actual API keys.
-Important: Keep your API keys private. Do not upload the .env file to GitHub or share it publicly.
-
 
 4. Run the Application
 Open Bash / Terminal in the project directory and run:<br>
