@@ -33,8 +33,11 @@ Open that URL in your web browser to use the application
 
 #UI Structure
 ┌──────────────────────────────────────────────────────────────┐
+
 │  ⚙️ CONFIGURATION        │  🌤️ AI Weather Agent             │
+
 │                          │                                   │
+
 │  API STATUS              │  Ask questions about cities,     │
 │  ✅ Gemini               │  weather and current information │
 │  ✅ Tavily               │                                   │
